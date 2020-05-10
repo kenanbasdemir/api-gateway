@@ -1,4 +1,5 @@
 # import flask dependencies
+#python -m pip install Flask
 from flask import Flask
 # initialize the flask app
 app = Flask(__name__)
