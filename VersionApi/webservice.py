@@ -7,6 +7,7 @@ app = Flask(__name__)
 def index():
     return 'Hello World!'
 # create a route for webhook
+#@app.route("/api/upload", methods=['POST'])
 @app.route('/api/version')
 def hello():
     return 'Version: 1.9.2'
