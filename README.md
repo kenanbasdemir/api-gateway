@@ -2,6 +2,8 @@
 
 http://localhost:7000/
 
-/customer-service/customer
+http://localhost:7000/customer-service/customer
 <br/>
-/product-service/product
+http://localhost:7000/product-service/product
+<br/>
+http://localhost:7000/version-service/version
